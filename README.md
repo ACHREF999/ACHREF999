@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achref999" alt="achref999" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [achref-souda](https://www.achref-souda.vercel.app)
+- 👨‍💻 All of my projects are available at [achref-souda](https://achref-souda.vercel.app)
 
 - 💬 Ask me about **React, NextJS,Browser,Backend,Networking,OS ,CPU Design**
 
